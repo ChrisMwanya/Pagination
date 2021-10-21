@@ -1,0 +1,18 @@
+{
+  "name": "paginationnodejs",
+  "version": "1.0.0",
+  "description": "Pagination coté server avec ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ChrisMwanya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

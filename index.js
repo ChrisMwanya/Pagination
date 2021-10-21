@@ -36,9 +36,4 @@ exports.paginate = (data, params) => {
     nextPage: nextPage,
   };
 };
-const array = [{name :"Franck"},{name :"Franck"},{name :"Franck"},{name :"Franck"},{name :"Franck"},{name :"Franck"},{name :"Franck"},{name :"Franck"},{name :"Franck"}]
-const params = {
-    page:1,
-    limit:7
-}
-console.log(this.paginate(array,params))
+

@@ -1,6 +1,6 @@
 {
   "name": "pagination_node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pagination coté server",
   "main": "app.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/ChrisMwanya/Pagination.git"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    
     "pagination_node": "^1.0.0"
   },
   "devDependencies": {

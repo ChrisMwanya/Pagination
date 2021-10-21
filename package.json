@@ -1,6 +1,6 @@
 {
   "name": "pagination_node",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Pagination coté server",
   "main": "app.js",
   "scripts": {

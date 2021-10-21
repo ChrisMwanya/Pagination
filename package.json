@@ -1,17 +1,16 @@
 {
   "name": "pagination_node",
   "version": "1.0.0",
-  "description": "Pagination coté server avec ExpressJs",
-  "main": "index.js",
+  "description": "Pagination coté server",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"nodemon index.js"
+    "dev": "nodemon app.js"
   },
-  "keywords": [],
+  "keywords": ["pagination", "nodejs", "client"],
   "author": "ChrisMwanya",
   "license": "ISC",
   "homepage": "https://github.com/ChrisMwanya/Pagination",
- 
   "contributors": [
     {
       "name": "Christian Mwanya",
@@ -24,7 +23,8 @@
     "url": "https://github.com/ChrisMwanya/Pagination.git"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pagination_node": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
